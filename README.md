@@ -6,4 +6,3 @@ Venue: Room 503, Wenfu Building.
 
 Welcome to Natural Language Processing and Practice course 2021 Fall :)
 
----
