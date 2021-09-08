@@ -1,6 +1,6 @@
 # Natural Language Processing and Practice -- 2021 Fall
 
-Time: **10:00 — 11:30 ,Thursday**
+Time: **09:50 — 11:25 ,Thursday**
 
 Venue: Room 503, Wenfu Building.
 
