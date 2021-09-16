@@ -10,6 +10,17 @@ Welcome to Natural Language Processing and Practice course 2021 Fall :)
 
 ## Course Assessment
 
+## Agenda
+
+| 序号 | 方向         | 论文题目                                                                              | 论文链接                                           | 会议出处    | 学号          | 姓名  |
+|----|------------|-----------------------------------------------------------------------------------|------------------------------------------------|---------|-------------|-----|
+| 1  | 预训练语言模型及应用 | How is BERT surprised? Layerwise detection of linguistic anomalies                | https://aclanthology.org/2021.acl-long.325.pdf | ACL2021 | 51215901087 | 伍洪意 |
+| 2  | 预训练语言模型及应用 | Are Pretrained Convolutions Better than Pretrained Transformers?                  | https://aclanthology.org/2021.acl-long.335.pdf | ACL2021 | 51215901081 | 陆寅斌 |
+| 3  | 预训练语言模型及应用 | When Do You Need Billions of Words of Pretraining Data?                           | https://aclanthology.org/2021.acl-long.90.pdf  | ACL2021 | 51215901088 | 王薏婷 |
+| 4  | 预训练语言模型及应用 | EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets                 | https://aclanthology.org/2021.acl-long.171.pdf | ACL2021 | 51215901125 | 沈新舒 |
+| 5  | 预训练语言模型及应用 | MPC-BERT: A Pre-Trained Language Model for Multi-Party Conversation Understanding | https://aclanthology.org/2021.acl-long.285.pdf | ACL2021 | 51215901072 | 王佳艺 |
+| 6  | 预训练语言模型及应用 | Pre-training Universal Language Representation                                    | https://aclanthology.org/2021.acl-long.398.pdf | ACL2021 | 51215901076 | 余慧  |
+
 ## Paper
 
 | 序号  | 方向         | 论文题目                                                                                                                                | 论文链接                                             | 会议出处      |
