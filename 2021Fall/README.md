@@ -20,7 +20,7 @@ Welcome to Natural Language Processing and Practice course 2021 Fall :)
 | 4  | 预训练语言模型及应用 | EarlyBERT: Efficient BERT Training via Early-bird Lottery Tickets                 | https://aclanthology.org/2021.acl-long.171.pdf | ACL2021 | 51215901125 | 沈新舒 |
 | 5  | 预训练语言模型及应用 | MPC-BERT: A Pre-Trained Language Model for Multi-Party Conversation Understanding | https://aclanthology.org/2021.acl-long.285.pdf | ACL2021 | 51215901072 | 王佳艺 |
 | 6  | 预训练语言模型及应用 | Pre-training Universal Language Representation                                    | https://aclanthology.org/2021.acl-long.398.pdf | ACL2021 | 51215901076 | 余慧  |
-| 7  | 信息抽取 | A Large-Scale Chinese Multimodal NER Dataset with Speech Clues                              | https://aclanthology.org/2021.acl-long.218.pdf | ACL2021 | 51215901113 | 林奋炫 |
+| 7  | 信息抽取 | A Large-Scale Chinese Multimodal NER Dataset with Speech Clues                              | https://aclanthology.org/2021.acl-long.218.pdf | ACL2021 | 51215901116 | 林奋炫 |
 | 8  | 信息抽取 | Few-NERD: A Few-shot Named Entity Recognition Dataset                                       | https://aclanthology.org/2021.acl-long.248.pdf | ACL2021 | 51215901133 | 吴欣雅 |
 | 9  | 信息抽取 | PRGC: Potential Relation and Global Correspondence Based Joint Relational Triple Extraction | https://aclanthology.org/2021.acl-long.486.pdf | ACL2021 | 51215901114 | 刘斌轩 |
 | 10 | 信息抽取 | Learning from Miscellaneous Other-Class Words for Few-shot Named Entity Recognition         | https://aclanthology.org/2021.acl-long.487.pdf | ACL2021 | 51215901084 | 孔维璟 |
