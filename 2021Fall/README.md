@@ -27,7 +27,7 @@ Welcome to Natural Language Processing and Practice course 2021 Fall :)
 | 11 | 信息抽取 | From Discourse to Narrative: Knowledge Projection for Event Relation Extraction             | https://aclanthology.org/2021.acl-long.60.pdf  | ACL2021 | 51215901078 | 张白岩 |
 | 12 | 信息抽取 | A Unified Generative Framework for Various NER Subtasks                                     | https://aclanthology.org/2021.acl-long.451.pdf | ACL2021 | 51215901105 | 胡凸  |
 | 13 | 信息抽取 | UniRE: A Unified Label Space for Entity Relation Extraction                                 | https://aclanthology.org/2021.acl-long.19.pdf  | ACL2021 | 51215901129 | 王志承 |
-| 14 | 多模态信息抽取  | Entity Relation Extraction as Dependency Parsing in Visually Rich Documents                        | https://arxiv.org/abs/2110.09915               | EMNLP2021 | 51215901107 | 司雨蒙 |
+| 14 | 多模态信息抽取 | Entity Relation Extraction as Dependency Parsing in Visually Rich Documents                         | https://arxiv.org/abs/2110.09915               | EMNLP2021 | 51215901107 | 司雨蒙 |
 | 15 | 开放信息抽取  | A Relation-Oriented Clustering Method for Open Relation Extraction                                  | https://arxiv.org/abs/2109.07205               | EMNLP2021 | 51215901108 | 柳永翔 |
 | 16 | 阅读理解    | A Self-Training Method for Machine Reading Comprehension with Soft Evidence Extraction              | https://aclanthology.org/2020.acl-main.361.pdf | ACL2020   | 51215901103 | 陆定波 |
 | 17 | 语言理解    | HiddenCut: Simple Data Augmentation for Natural Language Understanding with Better Generalizability | https://aclanthology.org/2021.acl-long.338.pdf | ACL2021   | 51215901082 | 卢嘉乐 |
