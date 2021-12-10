@@ -56,6 +56,8 @@ Welcome to Natural Language Processing and Practice course 2021 Fall :)
 | 40       | 对话          | I like fish, especially dolphins: Addressing Contradictions in Dialogue Modeling                                     | https://aclanthology.org/2021.acl-long.134.pdf | ACL2021 | 51215901131 | 李向前  |
 | 41       | 对话          | Learning to Ask Conversational Questions by Optimizing Levenshtein Distance                                          | https://aclanthology.org/2021.acl-long.438.pdf | ACL2021 | 51215901086 | 张杨文辉 |
 | 42       | 对话          | Towards Emotional Support Dialog Systems                                                                             | https://aclanthology.org/2021.acl-long.269.pdf | ACL2021 | 51215901137 | 张效曾  |
+| 43 | 对话 | Increasing Faithfulness in Knowledge-Grounded Dialogue with Controllable Features           | https://aclanthology.org/2021.acl-long.58.pdf  | ACL2021 | 51215901117 | 张华锬 |
+| 44 | 对话 | HERALD: An Annotation Efficient Method to Detect User Disengagement in Social Conversations | https://aclanthology.org/2021.acl-long.283.pdf | ACL2021 | 51215901098 | 陈忠  |
 
 
 
